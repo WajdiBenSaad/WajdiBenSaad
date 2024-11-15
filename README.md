@@ -10,4 +10,4 @@
 - 🏦 I'm a statistician. Math and probability theory are my bread and butter.
 - 🚀 Currently, I'm the Head of Data Science at a Digital Bank
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ☕ On my free time, I write about stuff for my personal indulgence,  [My Blog](https://wajdix.blogspot.com)
+- ☕ On my free time, I write about stuff for my personal indulgence,on  [My Blog](https://wajdix.blogspot.com)
