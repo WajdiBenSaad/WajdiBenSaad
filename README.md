@@ -12,8 +12,8 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ☕ On my free time, I write about stuff for my personal indulgence,on  [My Blog](https://wajdix.blogspot.com)
 
- ## <img src="https://github.com/WajdiBenSaad/WajdiBenSaad/blob/main/assets/SW.gif" width="45" /> By the way... I'm from Tatooine... yep ;)
-
+ ### <img src="https://github.com/WajdiBenSaad/WajdiBenSaad/blob/main/assets/SW.gif" width="45" /> By the way... I'm from Tatooine... yep ;)
+<img src="https://github.com/WajdiBenSaad/WajdiBenSaad/blob/main/assets/SW.gif" width="45" />
 
 #### <img alt="GIF" src="https://github.com/WajdiBenSaad/WajdiBenSaad/blob/main/assets/coin.gif" width="20px" /> Contact
 
