@@ -8,8 +8,8 @@
 
 ### <img src="https://github.com/WajdiBenSaad/WajdiBenSaad/blob/main/assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a statistician. Math and probability theory are my bread and butter.
-- 🚀 Currently, I'm the Head of Data Science at a Digital Bank
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ~~🚀 Currently, I'm the Head of Data Science at a Digital Bank~~
+- 📝 *I'm currently doing research on AI, SLMs, Agents and RL.*      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ☕ On my free time, I write about stuff for my personal indulgence,on  [My Blog](https://wajdix.blogspot.com)
 
  ### <img src="https://github.com/WajdiBenSaad/WajdiBenSaad/blob/main/assets/SW.gif" width="45" /> By the way... I'm from Tatooine... yep ;)
